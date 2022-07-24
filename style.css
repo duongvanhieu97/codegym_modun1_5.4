@@ -1,0 +1,45 @@
+
+caption {
+    color: blue
+}
+
+table {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: Arial
+}
+
+table {
+    font-size: 30px;
+    font-weight: bold
+}
+
+td {
+    border: 3px solid darkgrey
+}
+
+sub {
+    font-size: 25px;
+    color: black
+}
+
+tbody {
+    font-size: 60px;
+    border: 20px solid black
+}
+
+table td:nth-child(1) {
+    color: red
+}
+
+table td:nth-child(7) {
+    color: blue
+}
+
+th {
+    color: white;
+    background-color: orange;
+    border: 2px solid white
+}
